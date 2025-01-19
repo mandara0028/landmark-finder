@@ -1,0 +1,10 @@
+# 設定ファイル
+config.js
+
+# エディタファイル
+.vscode/
+.idea/
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
