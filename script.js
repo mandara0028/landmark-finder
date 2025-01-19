@@ -8,7 +8,7 @@ const landmarkNameElement = document.querySelector('.landmark-name');
 const landmarkDistanceElement = document.querySelector('.landmark-distance');
 
 // Google Places API設定
-const GOOGLE_API_KEY = CONFIG.GOOGLE_API_KEY;
+const GOOGLE_API_KEY = 'AIzaSyDlyqOT0Wjv5wPdxZsT9Wybpe_0Dh7-VSo';
 const SEARCH_RADIUS = 1000; // メートル
 const PLACE_TYPES = ['train_station', 'shopping_mall', 'department_store', 'tourist_attraction'];
 
